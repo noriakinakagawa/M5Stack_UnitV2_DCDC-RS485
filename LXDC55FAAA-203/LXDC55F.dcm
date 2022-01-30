@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LXDC55F
+D 表面実装用の降圧型DCDCコンバータ 入力電圧：4.0～14V 出力電圧：0.8～5.3V 出力電流：0～1500mA
+K 降圧チョッパ
+F https://akizukidenshi.com/download/ds/murata/LXDC55FAAA-203.pdf
+$ENDCMP
+#
+#End Doc Library
